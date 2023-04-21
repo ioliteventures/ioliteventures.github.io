@@ -390,8 +390,6 @@
         font-size: 17px;
         line-height: 24px;
         max-width: 270px;
-        margin-left: auto;
-        margin-right: auto;
         margin-top: 15px;
     }
 
@@ -456,10 +454,6 @@
 
     .landing_box {
         padding: 2px 38px 0;
-    }
-
-    .landing_home {
-        text-align: center;
     }
 
     .landing_home .hero_subtitle br {
