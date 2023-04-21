@@ -1501,16 +1501,6 @@ p.border-bottom {
     bottom: 0px;
 }
 
-.owl-carousel.testi_carousel .owl-stage {
-    right: -40px;
-    margin-left: -120px !important;
-    padding-bottom: 50px;
-}
-
-.owl-carousel.testi_carousel .owl-stage-outer {
-    padding-left: 34px;
-}
-
 .designation {
     color: #4A596A;
     opacity: 0.7;
@@ -1521,30 +1511,6 @@ p.border-bottom {
 
 .owl-dots {
     margin-top: 0 !important;
-}
-
-.owl-carousel.testi_carousel .owl-dots {
-    text-align: center;
-    padding-bottom: 36px;
-    margin-top: 40px;
-}
-
-.owl-carousel.testi_carousel .owl-dots button {
-    min-height: 6px;
-    width: 6px;
-    border-radius: 50%;
-    background: #C5CDDC;
-    margin-right: 15px;
-    padding: 4px;
-}
-
-.owl-carousel.testi_carousel .owl-dots button.active {
-    background: #042B5A;
-}
-
-
-.owl-carousel.testi_carousel .owl-dots button:last-child {
-    margin-right: 0px;
 }
 
 .testimonails_section {
