@@ -943,7 +943,7 @@ header.sticky {
 }
 
 .landing_home {
-    padding: 165px 0 116px;
+    padding: 165px 0 90px;
     background: #F5F6FD;
     overflow: hidden;
     position: relative;
@@ -3217,4 +3217,14 @@ hr.short {
 
 .cProximaBold {
     font-family: 'ProximaNovaSemibold';
+}
+#as-seen-on {
+ margin: 70px auto 0;
+}
+#as-seen-on div {
+ margin: 0 auto;
+ text-align: center;
+}
+#as-seen-on img {
+ width: 100%;
 }
